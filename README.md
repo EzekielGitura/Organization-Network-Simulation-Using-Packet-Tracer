@@ -9,7 +9,7 @@ I designed this **network configuration for the network of three companies**, gi
 Its an interesting problem demonstrating the concepts of **Classless IP Subnetting** and using **RIPv2 Protocol**. I am sharing this **working solution** so that it might be of help to others looking to learn these concepts with a practical real world example.
 
 ## Designed Network
-[![a](../master/network-screenshot.PNG)
+![a](../main/network-screenshot.PNG)
 
 
 ## Problem Statement
